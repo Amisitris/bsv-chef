@@ -1,4 +1,3 @@
-
 import pytest
 from src.util.dao import DAO
 from src.controllers.controller import Controller
